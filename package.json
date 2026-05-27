@@ -1,0 +1,15 @@
+{
+  "name": "azure-node-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Azure App Service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
